@@ -9,7 +9,6 @@ proceeding to Part B, and similarly Part B before Part C.
 Part A: Develop a simple Vehicle class with three states ‘A’ (available), ‘S’ (servicing) and ’H’
 (hired) and methods. Your class must implement the required interface and test it with the data
 provided. In the second part the Vehicle class must be used for developing a simple application.
-(assignment to be demonstrated in week 8 to your lab assistant)
 
 Part B: Extend to PremiumVehicle implementing the overridden methods (which introduce
 additional conditions for state transitions). You are also required to develop a menu-driven
