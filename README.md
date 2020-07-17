@@ -271,7 +271,14 @@ possible.
 8. Creating a report allowing rental income from each vehicle in the specified period to be
 listed.
 
+# Run Locally
 
+• Pull the folder in Eclipse IDE For Java Developers.
+
+• Run the program according to section:
+1) Open class ManageVehicles and run to check Part A.
+2) Open class ManageVehs and run to check Part B.
+3) Open class ManageHiring and run to check Part C.
 
 
 
